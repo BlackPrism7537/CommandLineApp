@@ -1,0 +1,16 @@
+C:\Users\zbarc\University\Software Developement\Week 1\CommandLineApp\bin\Debug\net6.0\CommandLineApp.exe
+C:\Users\zbarc\University\Software Developement\Week 1\CommandLineApp\bin\Debug\net6.0\CommandLineApp.deps.json
+C:\Users\zbarc\University\Software Developement\Week 1\CommandLineApp\bin\Debug\net6.0\CommandLineApp.runtimeconfig.json
+C:\Users\zbarc\University\Software Developement\Week 1\CommandLineApp\bin\Debug\net6.0\CommandLineApp.dll
+C:\Users\zbarc\University\Software Developement\Week 1\CommandLineApp\bin\Debug\net6.0\ref\CommandLineApp.dll
+C:\Users\zbarc\University\Software Developement\Week 1\CommandLineApp\bin\Debug\net6.0\CommandLineApp.pdb
+C:\Users\zbarc\University\Software Developement\Week 1\CommandLineApp\obj\Debug\net6.0\CommandLineApp.GlobalUsings.g.cs
+C:\Users\zbarc\University\Software Developement\Week 1\CommandLineApp\obj\Debug\net6.0\CommandLineApp.csproj.AssemblyReference.cache
+C:\Users\zbarc\University\Software Developement\Week 1\CommandLineApp\obj\Debug\net6.0\CommandLineApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbarc\University\Software Developement\Week 1\CommandLineApp\obj\Debug\net6.0\CommandLineApp.AssemblyInfoInputs.cache
+C:\Users\zbarc\University\Software Developement\Week 1\CommandLineApp\obj\Debug\net6.0\CommandLineApp.AssemblyInfo.cs
+C:\Users\zbarc\University\Software Developement\Week 1\CommandLineApp\obj\Debug\net6.0\CommandLineApp.csproj.CoreCompileInputs.cache
+C:\Users\zbarc\University\Software Developement\Week 1\CommandLineApp\obj\Debug\net6.0\CommandLineApp.dll
+C:\Users\zbarc\University\Software Developement\Week 1\CommandLineApp\obj\Debug\net6.0\ref\CommandLineApp.dll
+C:\Users\zbarc\University\Software Developement\Week 1\CommandLineApp\obj\Debug\net6.0\CommandLineApp.pdb
+C:\Users\zbarc\University\Software Developement\Week 1\CommandLineApp\obj\Debug\net6.0\CommandLineApp.genruntimeconfig.cache
