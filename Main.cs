@@ -7,7 +7,10 @@ namespace CommandLineApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Loading...");
             Program program = new Program();
+            String userInput = program.GetUserInput();
+            Console.WriteLine("You entered: " + userInput);
         }
     }
 

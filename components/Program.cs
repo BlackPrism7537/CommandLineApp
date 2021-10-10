@@ -5,12 +5,22 @@ namespace CommandLineApp
 {
     class Program
     {
-        public Program(){
-            List<string> list = new List<string>();
-            list.Add("Hello");
-            list.Add("World");
-            list.Add("!");
-            list.ForEach(Console.WriteLine);
+        public Program()
+        {
+            Console.WriteLine("Welcome!");
+        }
+
+
+        public string GetUserInput()
+        {
+            string? input;
+            do
+            {
+                Console.WriteLine("Please enter a command: ");
+                input = Console.ReadLine() ?? "";
+            } while (input == "");
+
+            return input;
         }
     }
 }
